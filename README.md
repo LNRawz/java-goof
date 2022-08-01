@@ -1,5 +1,5 @@
 ## Java Goof
-
+Edit this
 This is a collection of Java demo apps that are vulnerable in different ways.
 
 It's divided into modules, each one having its own README:
